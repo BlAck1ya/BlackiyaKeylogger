@@ -1,18 +1,6 @@
-# Pehle wrong requirements.txt ko delete karo
-rm requirements.txt
-
-# Naye sahi requirements.txt file banao
-cat > requirements.txt << 'EOF'
 requests>=2.28.0
 pynput>=1.7.0
 evdev>=1.6.0
 pillow>=9.0.0
 pyperclip>=1.8.0
 mss>=9.0.0
-EOF
-
-# Ab dependencies install karo
-pip install -r requirements.txt
-
-# Ab script edit karo (Telegram credentials daalne ke liye)
-nano BlackiyaKeylogger.py
