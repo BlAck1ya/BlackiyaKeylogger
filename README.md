@@ -97,3 +97,19 @@ FOR EDUCATIONAL PURPOSES ONLY. Use only on your own systems. Unauthorized use is
 
                                         Made with 🔥 by BlAck1ya
 
+
+## Getting Started
+
+```bash
+git clone https://github.com/BlAck1ya/BlackiyaKeylogger.git
+
+cd BlackiyaKeylogger
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+python3 BlackiyaKeylogger.py
+```
