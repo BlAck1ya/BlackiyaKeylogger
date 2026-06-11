@@ -66,6 +66,9 @@ TELEGRAM_CHAT_ID = "your_chat_id_here"
 SEND_DELAY = 0.5
 SCREENSHOT_INTERVAL = 45
 
+<img width="542" height="85" alt="image" src="https://github.com/user-attachments/assets/c5d5849b-84ad-45e9-8a4f-e02fdeac44ac" />
+
+
 USAGE
 
 Basic run: source venv/bin/activate && python3 BlackiyaKeylogger.py
