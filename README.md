@@ -68,6 +68,8 @@ SCREENSHOT_INTERVAL = 45
 
 <img width="542" height="85" alt="image" src="https://github.com/user-attachments/assets/c5d5849b-84ad-45e9-8a4f-e02fdeac44ac" />
 
+Replace your token id and number 
+
 
 USAGE
 
